@@ -9,7 +9,7 @@ body {
 
 }
 
-.hell {
+.container {
     swidth: 100%; /* trumpam mutintas */
     height:100vh;*/
     float:left;
@@ -18,8 +18,8 @@ body {
     border: 3px solid white;
 }
 
-.heven {
-    /*max-width: 940px;*/
+.scontainer {
+    /*max-width: 940px;*/ 
     /*margin: auto;*/
     width:100%;
     /*display: table;*/
